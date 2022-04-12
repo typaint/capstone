@@ -1,0 +1,14 @@
+sentence,positive,negative,neutral
+" Block (SQ), PayPal (PYPL), Marqeta (MQ) Visa (V), and other payment companies' shares fell on Wednesday afternoon after Bloomberg reported Apple (AAPL) is working on a plan dubbed ""Breakout"" aimed at bringing financial services in-house",0.0004,0.9983,0.0013
+The report states the tech giant is building a payment processing technology and infrastructure as part of an effort to decrease its dependence on outside partners,0.9972,0.0003,0.0026
+The strategy is aimed at future financial products instead of existing ones,0.0000,0.0001,0.9999
+"Shares of Block, formally known as Square, fell by more than 4% an hour before the closing bell on Wednesday",0.0004,0.9983,0.0013
+PayPal shares were down about 2%,0.0004,0.9967,0.0028
+"Visa and Global Payments (GNP) was also lower.Payment companies stock price action on March 30, 2022 The reported plan would expand Apple's pretense into the financial services industry",0.9879,0.0091,0.0030
+"The Cupertino, California–based company has been growing its services businesses",0.9995,0.0002,0.0004
+The tech giant already offers an Apple Card in connection with Goldman Sachs,0.0000,0.0001,0.9999
+It also runs Apple Pay and a peer-to-peer payment service,0.0000,0.0001,0.9999
+"Apple Pay is available in around 70 countries, while the Apple Card and the company's peer-to-peer payment features are only accessible in the U.S",0.0000,0.0001,0.9999
+Fintech companies have been volatile along with the broader markets over the past several months amid higher interest rates and rising inflation,0.0009,0.9980,0.0011
+Marqeta (MQ) is down 38% since the beginning of January,0.0004,0.9979,0.0016
+"Affirm (AFRM) is down 53% year-to-date, while PayPal is down 37% since the start of the year",0.0005,0.9984,0.0011
