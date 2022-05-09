@@ -67,7 +67,7 @@ def filter_websites(file):
     df = pd.read_csv(file, index_col=[0]) # read in csv
     m_df = df[df.website=='marketwatch.com'] # filter for website
     p_df = df[df.website=='prnewswire.com'] # filter for website
-    y_df = df[df.website=='yahoo.com'][0:10] # filter for website
+    y_df = df[df.website=='yahoo.com'] # filter for website
 
     return(m_df, p_df, y_df)
 
